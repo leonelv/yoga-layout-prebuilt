@@ -1,3 +1,6 @@
+'use strict';
+var _a;
+
 (function (root, wrapper) {
   if (typeof define == "function" && define.amd) define([], function () {
     return wrapper;
